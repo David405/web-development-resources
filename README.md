@@ -19,3 +19,9 @@ https://dev.to/hb/7-fullstack-projects-you-need-to-make-in-2021-bdn?utm_source=d
 
 40 "Free Forever" Tools for Developers
 https://dev.to/hrishikesh1990/40-free-forever-tools-for-developers-4gdm?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
+
+How to delete a sensitive file from github
+https://dev.to/sophie/how-to-delete-a-secret-file-from-github-ing
+
+Case Insensitive search mongoose
+https://stackoverflow.com/questions/7101703/how-do-i-make-case-insensitive-queries-on-mongodb
