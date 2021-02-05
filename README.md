@@ -25,3 +25,6 @@ https://dev.to/sophie/how-to-delete-a-secret-file-from-github-ing
 
 Case Insensitive search mongoose
 https://stackoverflow.com/questions/7101703/how-do-i-make-case-insensitive-queries-on-mongodb
+
+Build a Realtime chat with Nodejs and WebSocket.js
+https://www.freecodecamp.org/news/create-a-professional-node-express/
